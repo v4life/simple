@@ -1,0 +1,10 @@
+project(simple)
+
+add_executable(AddNumbers AddNumbers.cpp)
+add_executable(HelloUniverse HelloUniverse.cpp)
+add_executable(TimeTable TimeTable.cpp)
+add_executable(Volume Volume.cpp)
+add_executable(MultiTask1 MultiTask1.cpp)
+add_executable(MultiTask2 MultiTask2.cpp)
+add_executable(Tables_And_Files Tables_And_Files.cpp)
+add_executable(Tables_And_Files_2 Tables_And_Files_2.cpp)
